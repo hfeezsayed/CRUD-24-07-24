@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "John Sina",
+      "username": "John",
+      "email": "johnsina@test.com",
+      "phone": "6523487000",
+      "website": "johndev.org"
+    },
+    {
+      "id": 3,
+      "name": "Rahim Ali",
+      "username": "rahimk",
+      "email": "rahimk@test.com",
+      "phone": "7894561230",
+      "website": "rahimkh.net"
+    },
+    {
+      "id": 4,
+      "name": "Munim Sheh",
+      "username": "munimsh",
+      "email": "munims@test.com",
+      "phone": "6398521478",
+      "website": "munimsheh.in"
+    },
+    {
+      "name": "salman khan",
+      "email": "salman@test.com",
+      "phone": "9874563215",
+      "id": 5
+    },
+    {
+      "name": "sharukh khan",
+      "email": "sharukh@test.com",
+      "phone": "2589631478",
+      "id": 6
+    },
+    {
+      "name": "Ajay Devgun",
+      "email": "ajay@test.com",
+      "phone": "9856321470",
+      "id": 7
+    },
+    {
+      "name": "Sunil Shetty",
+      "email": "sunilsh@test.com",
+      "phone": "7539518520",
+      "id": 8
+    }
+  ]
+}
